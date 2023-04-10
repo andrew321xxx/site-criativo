@@ -4,8 +4,8 @@
 }
 
 .cabecalho {
-    background-color: rgb(0, 238, 255);
-    color: rgb(0, 255, 170);
+    background-color: #eaecec;
+    color: rgb(5, 5, 5);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -28,6 +28,18 @@
 
 .escola{
     background-image: linear-gradient(0, 238, 255,0, 255, 170);
-    color: aliceblue;
+    color: rgb(5, 5, 5);
     display: flex;
+}
+
+.estudante-incone{
+    width: 24px;
+}
+
+.estudante-incone{
+    text-align: center;
+}
+
+.estudante-incone{
+    texto
 }
